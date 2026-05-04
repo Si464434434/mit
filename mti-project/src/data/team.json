@@ -1,0 +1,58 @@
+{
+  "team": [
+    {
+      "id": 1,
+      "name": "Ananya Sharma",
+      "role": "Community Lead",
+      "bio": "Full-stack developer with 5+ years of experience",
+      "linkedin": "https://linkedin.com",
+      "github": "https://github.com",
+      "expertise": ["React", "Node.js", "Azure"]
+    },
+    {
+      "id": 2,
+      "name": "Arjun Patel",
+      "role": "Technical Lead",
+      "bio": "Cloud architect and DevOps enthusiast",
+      "linkedin": "https://linkedin.com",
+      "github": "https://github.com",
+      "expertise": ["Azure", "Docker", "Kubernetes"]
+    },
+    {
+      "id": 3,
+      "name": "Priya Gupta",
+      "role": "Content Manager",
+      "bio": "Content strategist and event coordinator",
+      "linkedin": "https://linkedin.com",
+      "github": "https://github.com",
+      "expertise": ["Marketing", "Content", "Events"]
+    },
+    {
+      "id": 4,
+      "name": "Rahul Singh",
+      "role": "Workshop Coordinator",
+      "bio": "ML engineer and AI researcher",
+      "linkedin": "https://linkedin.com",
+      "github": "https://github.com",
+      "expertise": ["Python", "ML", "TensorFlow"]
+    },
+    {
+      "id": 5,
+      "name": "Divya Kumar",
+      "role": "Designer & Organizer",
+      "bio": "UX/UI designer with passion for community building",
+      "linkedin": "https://linkedin.com",
+      "github": "https://github.com",
+      "expertise": ["Design", "UI/UX", "Figma"]
+    },
+    {
+      "id": 6,
+      "name": "Vikram Reddy",
+      "role": "Community Ambassador",
+      "bio": "Full-stack developer and open-source contributor",
+      "linkedin": "https://linkedin.com",
+      "github": "https://github.com",
+      "expertise": ["Web Dev", "Open Source", "Mentoring"]
+    }
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "events": [
+    {
+      "id": 1,
+      "title": "React Masterclass",
+      "date": "2024-05-20",
+      "time": "6:00 PM",
+      "category": "Workshop",
+      "description": "Learn advanced React patterns, hooks, and optimization techniques.",
+      "attendees": 245,
+      "location": "SRGI Campus"
+    },
+    {
+      "id": 2,
+      "title": "Web Dev Bootcamp",
+      "date": "2024-06-01",
+      "time": "4:00 PM",
+      "category": "Bootcamp",
+      "description": "Intensive 5-day bootcamp covering full-stack development.",
+      "attendees": 180,
+      "location": "SRGI Campus"
+    },
+    {
+      "id": 3,
+      "title": "Cloud & DevOps Workshop",
+      "date": "2024-06-15",
+      "time": "3:30 PM",
+      "category": "Workshop",
+      "description": "Master Azure cloud services, CI/CD pipelines, and containerization.",
+      "attendees": 160,
+      "location": "SRGI Campus"
+    },
+    {
+      "id": 4,
+      "title": "Hackathon 2024",
+      "date": "2024-07-10",
+      "time": "9:00 AM",
+      "category": "Hackathon",
+      "description": "Build innovative solutions in 24 hours. Prize pool: ₹1,00,000",
+      "attendees": 320,
+      "location": "SRGI Campus"
+    },
+    {
+      "id": 5,
+      "title": "AI/ML Fundamentals",
+      "date": "2024-07-25",
+      "time": "5:00 PM",
+      "category": "Workshop",
+      "description": "Introduction to machine learning with Python and TensorFlow.",
+      "attendees": 210,
+      "location": "SRGI Campus"
+    },
+    {
+      "id": 6,
+      "title": "Web3 & Blockchain Basics",
+      "date": "2024-08-05",
+      "time": "6:30 PM",
+      "category": "Seminar",
+      "description": "Explore blockchain technology, smart contracts, and Web3 opportunities.",
+      "attendees": 190,
+      "location": "SRGI Campus"
+    }
+  ]
+}
